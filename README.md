@@ -1,10 +1,11 @@
 # WeatherApp
 This repository is a submission to Github Copilot hackathon.
+---
 ***About the hackathon:***
 **GitHub Copilot** is powered by OpenAI Codex, a new AI system created by OpenAI. OpenAI Codex has a broad knowledge of how people use code and is significantly more capable than GPT-3 in code generation, in part, because it was trained on a data set that includes a much larger concentration of public source code. GitHub Copilot works with a broad set of frameworks and languages, but this technical preview works especially well for Python, JavaScript, TypeScript, Ruby and Go.
 
 In simple words, GitHub Copilot is Artificial Intelligence that helps software developers write better code by providing valid and well-tested suggestions to the code they are currently working on. It can be seen as an AI assistant which provides developers with code based on the code they are currently writing.
-
+---
 The themes available are:
 **Theme 1: Weather Forecasting Tool (Python)**
 
@@ -25,7 +26,7 @@ Develop a basic task management application using C# and .NET Framework. The app
 **Theme 5: URL Shortener Service (Ruby)**
 
 Build a simple URL shortener service using Ruby and the Sinatra web framework. The service should accept a long URL as input, generate a unique short URL and store the mapping in a suitable data structure. Demonstrate how GitHub Copilot can provide suggestions for implementing the URL shortening algorithm, handling user input, and managing the data store.
-
+---
 This repository is based on theme 1.
 Our solution to the problem statement makes use of the following :
 * requests
