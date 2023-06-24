@@ -51,3 +51,10 @@ For a given city the tool retrieves various weather attributes like
 The function get_coordinates() expects one argument i.e., city and with the help of opencageAPI retrieves latitude and longitude of the city and returns them
 The city is determined by the program with the help of ArgumentParser from argparse library
 The latitude and longitude are then sent to openweathermapAPI and the weather is then printed out.
+
+# Running the program
+1. Open any terminal
+2. Navigate to the directory the WeatherApp.py is located
+3. Use the command
+   > python WeatherApp.py <CITY_NAME>
+4. The output is printed in terminal
