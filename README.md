@@ -6,6 +6,8 @@ This repository is a submission to Github Copilot hackathon.
 
 In simple words, GitHub Copilot is Artificial Intelligence that helps software developers write better code by providing valid and well-tested suggestions to the code they are currently working on. It can be seen as an AI assistant which provides developers with code based on the code they are currently writing.
 The themes available are:
+
+
 **Theme 1: Weather Forecasting Tool (Python)**
 
 Create a command-line tool that accepts a city's name and returns the current weather forecast. Leverage OpenWeatherMap API to fetch weather data and parse it using Python. Your solution should demonstrate how GitHub Copilot can help you with API usage, data parsing, and error handling.
