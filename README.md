@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherApp #
 This repository is a submission to Github Copilot hackathon.
 ---
 ***About the hackathon:***
@@ -24,6 +24,7 @@ Create a web-based personal finance tracker using JavaScript, HTML, and CSS. The
 Develop a basic task management application using C# and .NET Framework. The application should allow users to create, update, and delete tasks, as well as mark them as completed. Show how GitHub Copilot can be used to generate code for implementing CRUD operations, input validation, and user interface design.
 
 **Theme 5: URL Shortener Service (Ruby)**
+--- 
 
 Build a simple URL shortener service using Ruby and the Sinatra web framework. The service should accept a long URL as input, generate a unique short URL and store the mapping in a suitable data structure. Demonstrate how GitHub Copilot can provide suggestions for implementing the URL shortening algorithm, handling user input, and managing the data store.
 ---
