@@ -46,4 +46,8 @@ For a given city the tool retrieves various weather attributes like
 * Time of Sunrise
 * Time of Sunset
 * Wind speed and direction
-* Humidity   
+* Humidity
+# The code
+The function get_coordinates() expects one argument i.e., city and with the help of opencageAPI retrieves latitude and longitude of the city and returns them
+The city is determined by the program with the help of ArgumentParser from argparse library
+The latitude and longitude are then sent to openweathermapAPI and the weather is then printed out.
