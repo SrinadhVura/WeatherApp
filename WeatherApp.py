@@ -7,7 +7,7 @@ import argparse
 import datetime
 def get_coordinates(city):
     api_key=os.getenv("OPENCAGE_API_KEY")
-    results = requests.get(f"https://api.opencagedata.com/geocode/v1/json?q={city}&key=2a1ca302bb6243f69c59ef91b561d03c").json()
+    results = requests.get(f"https://api.opencagedata.com/geocode/v1/json?q={city}&key={api_key}").json()
     if results:
         lat=results['results'][0]['geometry']['lat']
         lon=results['results'][0]['geometry']['lng']
@@ -26,7 +26,7 @@ args = parser.parse_args()
 city = args.city[0]
 print(f"Getting weather for {city}")
 lat, lon = get_coordinates(city)
-url = f"https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=905ffebade9c52b301da01bd34f8c36d"
+url = f"https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={api_key}"
 response = requests.get(url)
 if response.status_code != 200:
     print(response.status_code)
