@@ -68,3 +68,8 @@ The latitude and longitude are then sent to openweathermapAPI and the weather is
    > python WeatherApp.py <CITY_NAME>
 
 5. *Observe results:* The detailed weather of the prompted city is displayed on the terminal
+
+# Presentation
+
+[Weather Forecasting Tool.pdf](https://github.com/SrinadhVura/WeatherApp/files/11858903/Weather.Forecasting.Tool.pdf)
+
