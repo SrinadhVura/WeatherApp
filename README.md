@@ -55,7 +55,7 @@ The city is determined by the program with the help of ArgumentParser from argpa
 The latitude and longitude are then sent to openweathermapAPI and the weather is then printed out.
 
 # Running the program
-1. *Download the repo:* Download the tool from https://github.com/SrinadhVura/WeatherApp/tree/main
+1. *Download the repo:* Download the tool
 
 2. *Open any terminal:*  Open any terminal say cmd in windows
    
