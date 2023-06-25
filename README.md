@@ -1,6 +1,6 @@
 # WeatherApp 
 This repository is a submission to Github Copilot hackathon.
----
+
 **About the hackathon:**
 **GitHub Copilot** is powered by OpenAI Codex, a new AI system created by OpenAI. OpenAI Codex has a broad knowledge of how people use code and is significantly more capable than GPT-3 in code generation, in part, because it was trained on a data set that includes a much larger concentration of public source code. GitHub Copilot works with a broad set of frameworks and languages, but this technical preview works especially well for Python, JavaScript, TypeScript, Ruby and Go.
 
