@@ -55,8 +55,14 @@ The city is determined by the program with the help of ArgumentParser from argpa
 The latitude and longitude are then sent to openweathermapAPI and the weather is then printed out.
 
 # Running the program
-1. Open any terminal
-2. Navigate to the directory the WeatherApp.py is located
-3. Use the command
+1. *Download the repo:* Download the tool from https://github.com/SrinadhVura/WeatherApp/tree/main
+
+2. *Open any terminal:*  Open any terminal say cmd in windows
+   
+3. *Navig﻿ate:* Navigate to the directory in which     WeatherApp.py is downloaded
+  
+4. *Run the command:* Run the following command :
+
    > python WeatherApp.py <CITY_NAME>
-4. The output is printed in terminal
+
+5.Observe results: The detailed weather of the prompted city is displayed on the terminal
