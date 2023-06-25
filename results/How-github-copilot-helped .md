@@ -10,8 +10,8 @@ Using a combination of deep learning and contextual understanding, GitHub Copilo
 Copliot suggested the "help" argument which is useful for the users to get help regarding the tool using -h flag.
 
 2. **Auto Completion:**
-   -Github copilot helped by completing the parts of code that I am writing with utmost precision in according to the code that I am writing.
-   -Copilot helped me while displaying the required weather attributes by auto completing the formatting of attributes like temperature
+   a. Github copilot helped by completing the parts of code that I am writing with utmost precision in according to the code that I am writing.
+   b. Copilot helped me while displaying the required weather attributes by auto completing the formatting of attributes like temperature
 
 3. **Helping in functions:** Copilot helped me to choose the best alternative available from multiple options for same functionality. For example, I have worked with argparse library many a times. But I am unable to choose the correct functions from argparse library for this tool. Copilot helped me in choosing the useful functions
 
