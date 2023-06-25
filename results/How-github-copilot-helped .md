@@ -3,9 +3,10 @@ GitHub Copilot is an AI-powered code completion tool developed by GitHub in coll
 
 Using a combination of deep learning and contextual understanding, GitHub Copilot analyzes the code you're working on and generates relevant code suggestions based on the context and patterns it has learned from the trained data. It aims to save developers time by automating repetitive coding tasks and reducing the need for manual searching and typing.
 
-**Ways in which github copilot helped in devising the tool**
+# Ways in which github copilot helped in devising the tool
 1. **Increasing usability of code:** In various segments of the code that I've written, github copilot have suggested minor adjustments that increased the usability of code. For example, in the line
    >  parser.add_argument('city', metavar='city', type=str, nargs='+',help='the city to get the weather for')
+
 Copliot suggested the "help" argument which is useful for the users to get help regarding the tool using -h flag.
 2. **Auto Completion:**
    -Github copilot helped by completing the parts of code that I am writing with utmost precision in according to the code that I am writing.
